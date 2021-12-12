@@ -12,7 +12,7 @@ For example see below the high quality reconstructions vs low quality interpolat
 
 | Image | Info |
 | ------------- | ------------- |
-| <img src="./reconBatch.png" alttext="Best Image Reconstruction">  | Best Image Reconstruction  |
+| <img src="./reconBatch.png" alttext="Best Image Reconstruction" width="50%">  | Best Image Reconstruction  |
 | <img src="./best-batch.png" alttext="Best Image Interpolation">  | Best Image Interpolation  |
 
 
