@@ -10,10 +10,9 @@ This paper proposes using a GLO model to generate images that look like a Pegasu
 I quickly learned however that this model was not able to produce high quality samples as the space between image latents was not meaningful. 
 For example see below the high quality reconstructions vs low quality interpolations:
 
-<img src="./reconBatch.png" alttext="Best Image Reconstruction" width="100">
+| ------------- | ------------- |
+| <img src="./reconBatch.png" alttext="Best Image Reconstruction">  | Best Image Reconstruction  |
+| <img src="./best-batch.png" alttext="Best Image Interpolation">  | Best Image Interpolation  |
 
-![Best Image Reconstruction](./reconBatch.png | width=100)
-
-![Best Image Interpolation](./best-batch.png | width=100)
 
 ## Reinforcement Learning
